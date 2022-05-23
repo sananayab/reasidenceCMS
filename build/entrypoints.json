@@ -1,0 +1,126 @@
+{
+  "entrypoints": {
+    "js/app": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/app.24e67d2c.js"
+      ]
+    },
+    "js/admin": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/admin.9f04d2ad.js"
+      ]
+    },
+    "js/ekko-lightbox": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/ekko-lightbox.579bda2b.js"
+      ]
+    },
+    "js/map": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/map.39d68c5e.js"
+      ]
+    },
+    "js/menu-sorting": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/menu-sorting.133e9cf0.js"
+      ]
+    },
+    "js/select2": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/select2.5bafdd5e.js"
+      ]
+    },
+    "js/slugger": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/slugger.25a8c2fa.js"
+      ]
+    },
+    "js/city": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/city.c27ba938.js"
+      ]
+    },
+    "js/photo": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/photo.7ad0b545.js"
+      ]
+    },
+    "js/page": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/page.db3a37c4.js"
+      ]
+    },
+    "js/user": {
+      "js": [
+        "/build/runtime.d94b3b43.js",
+        "/build/js/user.83daf736.js"
+      ]
+    },
+    "css/app": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/app.cf9d88d8.css"
+      ]
+    },
+    "css/admin": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/admin.8dfed1d2.css"
+      ]
+    },
+    "css/ekko-lightbox": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/ekko-lightbox.8141a109.css"
+      ]
+    },
+    "css/city": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/city.c6745445.css"
+      ]
+    },
+    "css/detail": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/detail.d790e56d.css"
+      ]
+    },
+    "css/photo": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/photo.7848d3a6.css"
+      ]
+    },
+    "css/select2": {
+      "js": [
+        "/build/runtime.d94b3b43.js"
+      ],
+      "css": [
+        "/build/css/select2.ec05fde8.css"
+      ]
+    }
+  }
+}
